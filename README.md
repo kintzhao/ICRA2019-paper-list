@@ -4,7 +4,22 @@ The 2019 International Conference on Robotics and Automation (ICRA) has been hel
 
 This list is edited by [PaopaoRobot](https://github.com/PaoPaoRobot), the Chinese academic nonprofit organization. Recently we will classify these papers by topics. Welcome to follow our github and our WeChat Public Platform Account ( [paopaorobot_slam](https://mp.weixin.qq.com/s?__biz=MzI5MTM1MTQwMw==&mid=100000102&idx=1&sn=0a8a831a4f2c18443dbf436ef5d5ff8c&chksm=6c10bf625b6736748c9612879e166e510f1fe301b72ed5c5d7ecdd0f40726c5d757e975f37af&mpshare=1&scene=1&srcid=0530KxSLjUE9I38yLgfO2nVm&pass_ticket=0aB5tcjeTfmcl9u0eSVzN4Ag4tkpM2RjRFH8DG9vylE%3D#rd) ). 
 
-
+|index|paper title|
+|:----:|:-----|
+|0336|Localization with Sliding Window Factor Graphs on Third-Party Maps for Automated Driving|
+|0697|Uncertainty-Aware Occupancy Map Prediction Using Generative Networks for Robot Navigation|
+|0999|Dynamic Hilbert Maps - Real-Time Occupancy Predictions in Changing Environments|
+|1176|Learned Map Prediction for Enhanced Mobile Robot Exploration|
+|1381|Efficient Constellation-Based Map-Merging for Semantic SLAM|
+|1560|2D LiDAR Map Prediction Via Estimating Motion Flow with GRU|
+|1650|HD Map Change Detection with a Boosted Particle Filter|
+|2076|Continuous Occupancy Map Fusion with Fast Bayesian Hilbert Maps|
+|2539|UVDAR System for Visual Relative Localization with Application to Leader-Follower Formations of Multirotor UAVs|
+|2540|On-Line 3D Active Pose-Graph SLAM Based on Key Poses Using Graph Topology and Sub-Maps|
+|2541|Event-Based Direct Camera Tracking from a Photometric 3D Map Using Nonlinear Optimization|
+|2545|Low-Latency Visual SLAM with Appearance-Enhanced Local Map Building|
+|2552|Experimental Comparison of Visual-Aided Odometry Methods for Rail Vehicles|
+|2554|Iteratively Reweighted Midpoint Method for Fast Multiple View Triangulation|
 
 |index|paper title|
 |:----:|:-----|
